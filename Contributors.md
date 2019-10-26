@@ -101,6 +101,7 @@
 - [Pavel Saha](https://github.com/pavel5133)
 - [Mayank_Matwa](https://github.com/MayankMatwa378)
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
+- [Alex Andersson]
 - [Renuka Kulkarni](https://github.com/renu111k)
 - [Leann Kim](https://github.com/leannkim11)
 - [Steven Thorne](https://github.com/steventhorne)
